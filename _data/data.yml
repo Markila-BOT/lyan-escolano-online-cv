@@ -29,18 +29,15 @@ education:
   title: Education
   info:
     - degree: Bachelor of Science in Hotel and Restaurant Management
-      university: Polytechnic University of the Philippines • Manila, Metro Manila
+      university: Polytechnic University of the Philippines • Sta Mesa, Manila
       time: 05/2013
-    - degree: Bachelor of Science in Human Resources
-      university: Polytechnic University of the Philippines • Manila, Metro Manila
-      time: 05/2009
       details: |
 experiences:
   title: Experiences
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Supply Chain Procurement Assistant
+      time: April 2021 - July 2022
+      company: Manila Water Company Inc. • Old Balara, Quezon City
       details: |
         - Assists the Procurement Manager in development and preparation of sourcing strategies and procurement plan for CAPEX and MRO projects
         - Effective and professional communication abilities, including being able to communicate with all levels of employees, vendors and clients
@@ -53,117 +50,80 @@ experiences:
         - Sending out technical clarifications from internal evaluators to bidders during evaluation stage and setting up clarification meeting if necessary
         - Executes financial evaluation of bid proposals versus internal cost estimate
         - Prepares NOA, Bond Endorsement, Contract documents and regret letters
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Purchasing Assistant
+      time: December 2018 - December 2020
+      company: Cinderella Markerting Corporation (Fashion Retail Industry) • South Triangle, Quezon City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Sourcing and purchasing of commodities to meet the demand of the retail stores.
+        - Maintaining and updating the database of suppliers, product information and pricing.
+        - Ensuring competitiveness of product's quality and price
+        - Operates a professional and ethical manner with suppliers
+        - Negotiating prices, delivery schedules and payment terms with suppliers.
+        - Monitoring and tracking of inventory levels to ensure timely replenishment of stock.
+        - Collaborating with the sales team to forecast future demand and purchasing plans.
+        - Ensuring that all purchase orders and invoices are processed accurately and in a timely manner.
+        - Monitoring and analyzing market conditions, prices and competitors to make informed purchasing decisions.
+        - Building and maintaining relationships with suppliers to ensure a smooth and efficient purchasing process.
+        - Adhering to the company's purchasing policies and procedures and ensuring compliance with all relevant laws and regulations.
+        - Executing strategic procurement process.
+    - role: Procurement Lead (Fast Food Industry)
+      time: November 2016 - November 2018
+      company: Crown Empero Food Corporation • South Triangle, Quezon City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+        - Part of pre-opening team
+        - Sourcing of suppliers and developing of database
+        - Developing and implementing purchasing strategies to ensure cost-effective procurement of goods and services.
+        - Negotiating contracts and prices with suppliers to maximize cost savings and improve quality of products.
+        - Developing and maintaining relationships with key suppliers to ensure reliable and timely delivery of goods.
+        - Managing the ordering and receiving process to ensure timely delivery of products and minimize waste.
+        - Analyzing market trends and making recommendations for new products to add to the menu.
+        - Monitoring inventory levels and ensuring timely replenishment of products to avoid stock shortages.
+        - Collaborating with kitchen and service staff to forecast demand and manage inventory levels.
+        - Implementing and maintaining quality control processes to ensure that all products meet the company's standards.
+        - Managing the procurement budget and monitoring spending to ensure that it remains within budget.
+        - Ensuring compliance with all relevant laws, regulations, and industry standards.
+        - Developed strong communication and organizational skills through working on group projects.
+        - Used critical thinking to break down problems, evaluate solutions and make decisions.
+        - Worked well in a team setting, providing support and guidance.
+    - role: Executive Secretary (HospitalityIndustry)
+      time: September 2013 - October 2016
+      company: Timberland Sports and Nature Club Ampid, San Mateo
+      details: |
+        - Supports the General Manager in all aspects of executive-level corporate administrative
+        - Providing administrative support to the executive management team, including scheduling appointments, organizing meetings and preparing correspondence.
+        - Answering and directing phone calls and responding to emails on behalf of the executive team.
+        - Maintaining and updating confidential files, records, and databases.
+        - Coordinating and scheduling travel arrangements, both domestic and international, for the executive team.
+        - Preparing reports, presentations, and other materials as needed.
+        - Organizing and maintaining filing systems, both physical and digital.
+        - Assisting with the coordination of events, including preparing agendas, making arrangements, and handling logistics.
+        - Monitoring and tracking incoming and outgoing mail and packages.
+        - Performing other administrative duties as assigned, such as making copies, ordering supplies, and managing the office environment.
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Supply Chain Management
+      level: 100%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Negotiation
+      level: 100%
 
-    - name: Angular
-      level: 98%
+    - name: Microsoft Word
+      level: 100%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Microsoft Excel
+      level: 100%
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: Outlook
+      level: 100%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: Canva
+      level: 100%
+
+    - name: Customer Service
+      level: 100%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Please feel free to contact me.
